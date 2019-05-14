@@ -10,7 +10,7 @@ Online version playable at <https://poppyattwell.github.io/LostSouls/>
 
 Downloadable Executable versions available at <https://github.com/poppyattwell/LostSoulsDownload>
 
-Prototype version (March 2019) playable at <https://github.com/poppyattwell/LostSoulsPrototype>
+Prototype version (March 2019) playable at <https://poppyattwell.github.io/LostSoulsPrototype/>
 
 #### Resources
 
